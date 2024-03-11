@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url(../assets/uwo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nav-item:hover{
+    background-color: #bbbbbb;
+}
+
+.row {
+    background-color: lightgrey;
+    border-style: solid;
+    padding: 0%;
+    font-size: 16px;
+    text-align: left;
+}
